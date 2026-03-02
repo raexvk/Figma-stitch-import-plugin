@@ -1,0 +1,11 @@
+{
+  "name": "Parentz Add Screenshots",
+  "id": "com.parentz.add-screenshots",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html",
+  "editorType": ["figma"],
+  "networkAccess": {
+    "allowedDomains": ["https://lh3.googleusercontent.com", "https://contribution.usercontent.google.com"]
+  }
+}
