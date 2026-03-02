@@ -1,5 +1,5 @@
 {
-  "name": "Parentz Add Screenshots",
+  "name": "Figma Stitch Import Plugin",
   "id": "com.parentz.add-screenshots",
   "api": "1.0.0",
   "main": "code.js",
